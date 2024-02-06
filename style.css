@@ -176,7 +176,7 @@ html, body {
     }
 
     .right {
-        background: linear-gradient(to right, #dadada, #555);
+        background: linear-gradient(to bottom, #dadada, #555);
         grid-row: 4;
         grid-column: 1 / 4;
         padding: 30px;
